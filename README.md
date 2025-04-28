@@ -19,3 +19,5 @@ Insights and recommendations are provided on the following success:
 An Interective Tableau Dashboard can be found [here.](https://public.tableau.com/app/profile/mustafa.zkul/viz/GlobalELectronics/SalesDashboard)
 
 The SQL queries utilized to crate data model and solving business questions can be found [here.](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/SQL.sql)
+
+The python utilized to clean, organize and prepare data for the dashboard can be found [here.](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Global_electronics.ipynb)
