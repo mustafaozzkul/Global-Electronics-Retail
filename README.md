@@ -16,6 +16,6 @@ Insights and recommendations are provided on the following success:
  - Customer Analysis : Understanding the target Customer group and some informations about the companies's customers
  - Store Performance Analysis: Understanding which regions's stores has higher sales.
 
-An Interective Tableau Dashboard can be 
+An Interective Tableau Dashboard can be found [here.](https://public.tableau.com/app/profile/mustafa.zkul/viz/GlobalELectronics/SalesDashboard)
 
 The SQL queries utilized to crate data model and solving business questions can be found [here.](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/SQL.sql)
