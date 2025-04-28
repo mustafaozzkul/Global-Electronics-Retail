@@ -22,4 +22,4 @@ The SQL queries utilized to crate data model and solving business questions can 
 
 The python utilized to clean, organize and prepare data for the dashboard can be found [here.](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Global_electronics.ipynb)
 
-![deneme](C:\Users\Pc\OneDrive\Desktop\Projects\Portfolio_Projects\Global_Electronics_Retailer)
+![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Data%20Model.png?raw=true)
