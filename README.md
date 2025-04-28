@@ -17,3 +17,5 @@ Insights and recommendations are provided on the following success:
  - Store Performance Analysis: Understanding which regions's stores has higher sales.
 
 An Interective Tableau Dashboard can be 
+
+The SQL queries utilized to crate data model and solving business questions can be found here.
