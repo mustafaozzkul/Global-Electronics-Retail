@@ -22,4 +22,8 @@ The SQL queries utilized to crate data model and solving business questions can 
 
 The python utilized to clean, organize and prepare data for the dashboard can be found [here.](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Global_electronics.ipynb)
 
+# Data Structure & Initial Checks
+
+Global Electronics Retailer's database structure as seen bellow cinsists of five table:
+customers, exchange_rate, products,stores and sales with total row count of 91.949 records.
 ![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Data%20Model.png?raw=true)
