@@ -72,7 +72,10 @@ Bellow is the Sales page from the Tableau dashboard and more examples are includ
 
  Based on the uncovered insights, the following recommendations have been provided:
 
- - 
+ - Contoso and Wide World Importers have relatively low average costs compared to other brands, and they also have higher sales order numbers. The Global Technology Retail may consider reshaping its inventory based on these low-cost, high-order brands.
+ - Global Technology Retail could start a campaign targeting top profit-generating customers, which may help the company maintain their loyalty.
+ - With the average customer age being relatively high, the company should consider designing its products for an older demographic.
+ - With the pandemic, all KPIs show a decrease. The company may consider creating an IT team to start selling on websites, not just in stores.
 
 
 
