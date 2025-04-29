@@ -32,11 +32,14 @@ customers, exchange_rate, products,stores and sales with total row count of 91.9
 # Executive Summary
 ## Overview of Findings
 
-Key performance indicators have all shown that total sales ,total order and total profit after april getitn lower acording to the last year. Total sales decrease 49.1 % , total order decrease 49.0% and total profit decrease 49.1 %. Those decreses have may happened because of the pandemic in 2020.
+Key performance indicators have all shown that total sales ,total orders and total profits after april stay lower over the last year. Total sales, total orders and total profit all have shown dramatically decrease over year over, total sales by 49.1 %, total order by 49.0 % and total profit by 49.1 %. These decreses have may happened because of the Covid-19 pandemic in 2020.
 
-USA is the country that makes the most of the profit. and Canada is 2nd highest profit in the year of 2020.
+USA is the country that makes the most of the profit and Canada is 2nd highest profit in the year of 2020.
 
-In 2020, computers are the only category that exceed the profit avg by categories, cameras and cell phones has average profit than other categories except computers.
+In 2020, computers are the only category that exceed the avg profit by categories, cameras and cell phones has average profit than other categories except computers.
+
+Bellow is the Sales page from the Tableau dashboard and more examples are included throughout the report.
 ![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Sales%20Dashboard.png?raw=true)
+
 
 
