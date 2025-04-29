@@ -42,5 +42,14 @@ Key performance indicators have all shown that total sales ,total orders and tot
 Bellow is the Sales page from the Tableau dashboard and more examples are included throughout the report.
 ![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Sales%20Dashboard.png?raw=true)
 
+## Customer Analysis :
+
+- 44.7% of Global Electronics retail company's customers are from the USA, making up the majority of its customer base.
+- The gender distribution is quite balanced, with 50.7% male and 49.3% female customers.
+- Matthew Flemming is the customer who generates the most profit for the company.
+
+![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Customer%20Dashboard.png?raw=true)
+
+
 
 
