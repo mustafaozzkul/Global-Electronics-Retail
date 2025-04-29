@@ -59,4 +59,21 @@ Bellow is the Sales page from the Tableau dashboard and more examples are includ
 
 ![Product](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Product%20Analysis.png?raw=true)
 
+## Store Performance:
+
+ - After peaking in 2012, store openings have been decreasing significantly and have remained low.
+ - There have been no new stores for 3 years.
+ - Nearly 94 percent of the stores had been opened before 2018.
+ - Store size has no positive correlation with generating profit; small-sized stores had higher average profits.
+
+ ![Stores](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Store%20Analysis.png?raw=true)
+
+ # Recommendations:
+
+ Based on the uncovered insights, the following recommendations have been provided:
+
+ - 
+
+
+
 
