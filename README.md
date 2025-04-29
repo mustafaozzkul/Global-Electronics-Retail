@@ -48,7 +48,7 @@ Bellow is the Sales page from the Tableau dashboard and more examples are includ
 - The gender distribution is quite balanced, with 50.7% male and 49.3% female customers.
 - Matthew Flemming is the customer who generates the most profit for the company.
 
-![image](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Customer%20Dashboard.png?raw=true)
+![Customer](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Customer%20Dashboard.png?raw=true)
 
 
 
