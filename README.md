@@ -50,6 +50,13 @@ Bellow is the Sales page from the Tableau dashboard and more examples are includ
 
 ![Customer](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Customer%20Dashboard.png?raw=true)
 
+## Product Level Performance : 
 
+ - Northwind Traders is the most expensive brand with an average cost of $353, followed by Fabrikam at $248.
+ - While their costs are quite high, these two brands have almost the lowest order numbers.
+ - Contoso has the highest average order numbers, followed by Soutridge Video.
+ - Home Appliances stands as the most profitable category.
+
+![Product](https://github.com/mustafaozzkul/Global-Electronics-Retail/blob/main/Product%20Analysis.png?raw=true)
 
 
